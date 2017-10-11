@@ -1,0 +1,12 @@
+body {
+        font-family: "Arial", sans-serif;
+    }
+    
+    .yourTime {
+        font-weight: bold;
+    }
+    
+    #shape {
+        display: none;
+        position: relative;
+    }
